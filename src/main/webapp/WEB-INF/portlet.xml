@@ -2,8 +2,8 @@
 
 <portlet-app xmlns="http://java.sun.com/xml/ns/portlet/portlet-app_2_0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://java.sun.com/xml/ns/portlet/portlet-app_2_0.xsd http://java.sun.com/xml/ns/portlet/portlet-app_2_0.xsd" version="2.0">
 	<portlet>
-		<portlet-name>map-event-consumer</portlet-name>
-		<display-name>map-event-consumer</display-name>
+		<portlet-name>map-to-detail</portlet-name>
+		<display-name>map-to-detail</display-name>
 		<portlet-class>im.ligas.mapjs.portlet.wc.WebContentDetailPortlet</portlet-class>
 		<init-param>
 			<name>view-template</name>
@@ -14,9 +14,9 @@
 			<mime-type>text/html</mime-type>
 		</supports>
 		<portlet-info>
-			<title>map-event-consumer</title>
-			<short-title>map-event-consumer</short-title>
-			<keywords>map-event-consumer</keywords>
+			<title>map-to-detail</title>
+			<short-title>map-to-detail</short-title>
+			<keywords>map-to-detail</keywords>
 		</portlet-info>
 	</portlet>
 	<portlet>

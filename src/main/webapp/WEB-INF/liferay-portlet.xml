@@ -3,7 +3,7 @@
 
 <liferay-portlet-app>
 	<portlet>
-		<portlet-name>map-event-consumer</portlet-name>
+		<portlet-name>map-to-detail</portlet-name>
 		<icon>/icon.png</icon>
 	</portlet>
 	<portlet>

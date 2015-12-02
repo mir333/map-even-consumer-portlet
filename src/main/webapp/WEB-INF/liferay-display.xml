@@ -3,7 +3,7 @@
 
 <display>
 	<category name="category.sample">
-		<portlet id="map-event-consumer" />
+		<portlet id="map-to-detail" />
 		<portlet id="map-to-table" />
 		<portlet id="map-to-line-chart" />
 		<portlet id="map-to-line-pie" />
